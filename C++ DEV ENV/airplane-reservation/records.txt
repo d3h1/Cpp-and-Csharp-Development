@@ -1,0 +1,9 @@
+________________XYZ Airlines________________
+___________________Ticket___________________
+____________________________________________
+Customer ID: 0
+Customer Name: 
+	Description: 
+
+Destination: 		USA
+Flight Cost: 		1050
